@@ -137,7 +137,6 @@ Anne Leschallier de Lisle, Beatriz Fernandes, Francisca Andrade, Ofelia Akopian
 
 
 Presentation
-[Voir le Google Slides][(https://docs.google.com/presentation/d/12ZLWrjnhwVKk2rFj-aXpakW4i4qqt_Bxq5F-MpGcfbk/edit?usp=sharing)]
 
-
+[Voir le Google Slides]([https://docs.google.com/presentation/d/TON_ID_SLIDES/edit?usp=sharing](https://docs.google.com/presentation/d/12ZLWrjnhwVKk2rFj-aXpakW4i4qqt_Bxq5F-MpGcfbk/edit?usp=sharing)
 
